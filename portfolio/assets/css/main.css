@@ -82,7 +82,7 @@ input, select, textarea {
 		-ms-overflow-style: scrollbar;
 	}
 
-	@media screen and (max-width: 480px) {
+	@media screen and (max-width: 491px) {
 
 		html, body {
 			min-width: 320px;
@@ -147,7 +147,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 736px) {
+		@media screen and (max-width: 640px) {
 
 			body, input, select, textarea {
 				font-size: 12pt;
@@ -155,7 +155,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 480px) {
+		@media screen and (max-width: 490px) {
 
 			body, input, select, textarea {
 				font-size: 12pt;
@@ -1524,7 +1524,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 480px) {
+		@media screen and (max-width: 640px) {
 
 			.row {
 				display: flex;
@@ -2473,7 +2473,7 @@ input, select, textarea {
 				width: 100%;
 			}
 
-		@media screen and (max-width: 480px) {
+		@media screen and (max-width: 491px) {
 
 			ul.actions:not(.fixed) {
 				-moz-flex-direction: column;
@@ -2971,7 +2971,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 480px) {
+		@media screen and (max-width:491px) {
 
 			.post > header .meta {
 				-moz-align-items: center;
